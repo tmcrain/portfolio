@@ -3,7 +3,7 @@ weight: 3
 title: "Veronica Liu | Leadership"
 description: "I empower my local community through leadership and service."
 nav_heading: "Leadership"
-thumbnail: "interior-lighting4.png"
+thumbnail: "work/coverAG.jpg"
 case_short_title: "Leadership and Service"
 case_title: "Leadership and Service"
 case_subtitle: ""

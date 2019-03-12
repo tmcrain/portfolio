@@ -3,7 +3,7 @@ weight: 1
 title: "Veronica Liu | Animation"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 nav_heading: "Animation Reel"
-thumbnail: "interior-lighting4.png"
+thumbnail: "work/dinoruncolorfin2.gif"
 case_short_title: "Animation Reel"
 case_title: "Animation Work"
 case_subtitle: ""
