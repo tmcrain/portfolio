@@ -14,4 +14,10 @@ date: 2017-10-15T03:29:08-07:00
 draft: false
 ---
 
-# Coming Soon!
+![](/img/work/rougeanimfinaltransp.gif)
+![](/img/work/jakeanimcolorfinal.gif)
+![](/img/work/wizardanimfinal.gif)
+![](/img/work/barbariananimfinaltransp.gif)
+![](/img/work/fishcolor.gif)
+![](/img/work/fish-shoot.gif)
+![](/img/work/3-bird-movement.gif)
