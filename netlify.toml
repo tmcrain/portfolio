@@ -28,3 +28,11 @@ HUGO_VERSION = "0.54.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/survey"
+  to = "https://utdallas.qualtrics.com/jfe/form/SV_38kutO04QRTXVxb"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
